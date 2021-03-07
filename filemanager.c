@@ -33,6 +33,7 @@ char *getCurrentTime()
 	else if (hour > 12)
 	{
 		meridian = "PM";
+		hour = hour - 12;
 	}
 
 	currentTime[0] = 0;
