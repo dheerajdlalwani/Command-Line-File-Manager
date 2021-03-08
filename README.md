@@ -1,4 +1,11 @@
-# File manager
+# Text Editor
 
-A simple text file manager made in C. Maybe I will convert this to a note/journal maker.
+A simple text editor I am building in C.
+
+The user will be able to
+
+- List all files in a directory
+- Make new files
+- Edit files & save them
+- Delete files
 
